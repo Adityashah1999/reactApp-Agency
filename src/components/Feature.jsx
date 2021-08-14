@@ -36,6 +36,7 @@ const Image=styled.img`
 
 const Title = styled.span`
     font-size: 70px;
+    
     @media only screen and (max-width: 480px){
         font-size:50px;
     }
