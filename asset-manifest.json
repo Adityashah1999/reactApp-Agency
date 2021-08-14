@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/reactApp-Agency/static/js/main.37515f2b.chunk.js",
+    "main.js.map": "/reactApp-Agency/static/js/main.37515f2b.chunk.js.map",
+    "runtime-main.js": "/reactApp-Agency/static/js/runtime-main.12dc3b6b.js",
+    "runtime-main.js.map": "/reactApp-Agency/static/js/runtime-main.12dc3b6b.js.map",
+    "static/js/2.d09f713a.chunk.js": "/reactApp-Agency/static/js/2.d09f713a.chunk.js",
+    "static/js/2.d09f713a.chunk.js.map": "/reactApp-Agency/static/js/2.d09f713a.chunk.js.map",
+    "index.html": "/reactApp-Agency/index.html",
+    "static/js/2.d09f713a.chunk.js.LICENSE.txt": "/reactApp-Agency/static/js/2.d09f713a.chunk.js.LICENSE.txt",
+    "static/media/app.26d71a5d.png": "/reactApp-Agency/static/media/app.26d71a5d.png",
+    "static/media/how.5772d81f.png": "/reactApp-Agency/static/media/how.5772d81f.png",
+    "static/media/woman1.7909f9e0.png": "/reactApp-Agency/static/media/woman1.7909f9e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12dc3b6b.js",
+    "static/js/2.d09f713a.chunk.js",
+    "static/js/main.37515f2b.chunk.js"
+  ]
+}
